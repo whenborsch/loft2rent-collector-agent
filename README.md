@@ -1,0 +1,1 @@
+# loft2rent-collector-agent
